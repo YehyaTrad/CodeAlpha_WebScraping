@@ -67,3 +67,11 @@ pip install -r requirements.txt
 ```
 python task1_web_scraping.py
 ```
+👤 Author
+```
+Yehya Trad
+Data Analytics Intern – CodeAlpha
+
+🔗 GitHub Profile: add your GitHub link
+🔗 LinkedIn Profile: add your LinkedIn link
+```
