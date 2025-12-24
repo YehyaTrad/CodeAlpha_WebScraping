@@ -73,5 +73,6 @@ Yehya Trad
 Data Analytics Intern – CodeAlpha
 
 🔗 GitHub Profile: https://github.com/YehyaTrad
-🔗 LinkedIn Profile: add your LinkedIn link
+
+🔗 LinkedIn Profile:https://www.linkedin.com/in/yehya-trad-690196327?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 
