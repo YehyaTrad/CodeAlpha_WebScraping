@@ -62,7 +62,8 @@ The following data fields were extracted from each book:
 ### 1️⃣ Install dependencies
 ```bash
 pip install -r requirements.txt
-
-2️⃣ Run the script
-
+```
+### 2️⃣ Run the script
+```
 python task1_web_scraping.py
+```
