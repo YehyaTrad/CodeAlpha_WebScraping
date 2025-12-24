@@ -26,3 +26,39 @@ CodeAlpha_WebScraping
 ├── requirements.txt # Required Python libraries
 └── README.md # Project documentation
 ```
+
+---
+
+## 🔍 Data Collected
+The following data fields were extracted from each book:
+- 📘 **Title**
+- 💰 **Price**
+- 📦 **Stock Availability**
+
+---
+
+## ⚙️ Project Workflow
+1. Send HTTP requests to fetch webpage content  
+2. Parse HTML using BeautifulSoup  
+3. Navigate website pagination to scrape multiple pages  
+4. Extract relevant data fields  
+5. Save raw data into a CSV file  
+6. Clean data by:
+   - Removing encoding issues
+   - Converting prices to numeric format
+   - Handling missing and duplicate values
+7. Save cleaned data for analysis
+
+---
+
+## 📊 Output Files
+- **books_raw_data.csv** → Unprocessed scraped data  
+- **books_cleaned_data.csv** → Cleaned, analysis-ready dataset  
+
+---
+
+## ▶️ How to Run the Project
+
+### 1️⃣ Install dependencies
+```bash
+pip install -r requirements.txt
