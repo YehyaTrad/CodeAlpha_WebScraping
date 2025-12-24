@@ -67,7 +67,7 @@ pip install -r requirements.txt
 ```
 python task1_web_scraping.py
 ```
-👤 Author
+## 👤 Author
 ```
 Yehya Trad
 Data Analytics Intern – CodeAlpha
