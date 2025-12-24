@@ -18,11 +18,11 @@ The website used for this project is **books.toscrape.com**, a public site desig
 ---
 
 ## 📂 Project Structure
----
-CodeAlpha_WebScraping/
-│
+```text
+CodeAlpha_WebScraping
 ├── task1_web_scraping.py # Main Python script
 ├── books_raw_data.csv # Raw scraped dataset
 ├── books_cleaned_data.csv # Cleaned & processed dataset
 ├── requirements.txt # Required Python libraries
 └── README.md # Project documentation
+```
