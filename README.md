@@ -76,3 +76,6 @@ Data Analytics Intern – CodeAlpha
 
 🔗 LinkedIn Profile:https://www.linkedin.com/in/yehya-trad-690196327?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 
+## 📜 License
+
+This project is created for educational and internship purposes.
